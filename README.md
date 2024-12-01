@@ -62,13 +62,18 @@ es Visual Studio Code por su flexibilidad y cantidad de add-ons que nos ayudan a
 
 
 ## 📊 Github Estadisticas
-
+                                                                    |  
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guillermopayllon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillermopayllon&layout=compact&langs_count=7&theme=dark"/>
+</p>
+ <!--
 <p align="center">
     <img alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=guillermopayllon&count_private=true&show_icons=true&custom_title=Guillermo&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"
     /> <br>
-    <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillermopayllon&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillermopayllon&layout=compact&theme=radical" />
 </p>
-
+-->
 
 
 ## Contacto
