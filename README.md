@@ -10,7 +10,7 @@
 - :student: Actualmente estoy estudiando `UX Design` y `Ciberseguridad`.
 - :nerd_face: Siempre estoy `aprendiendo nuevas cosas`.
 - :thinking: Actualmente trabajo como `freelance` en <a href ="https://www.upwork.com/freelancers/carlospascual"> `UpWork` </a> y <a href = "https://www.fiverr.com/carlosux01">`Fiverr`</a>.
-- 🔖: Porta Puedes ver mi <a href = "https://guillermoayllon.com">portafolio</a>.
+- 🔖:Puedes ver mi <a href = "https://guillermoayllon.com">portafolio</a>.
 <br>
 
 <h1>⚙️ My skills</h1>
