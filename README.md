@@ -79,10 +79,10 @@ es Visual Studio Code por su flexibilidad y cantidad de add-ons que nos ayudan a
 
 <p>¿Quieres que hablemos? Aquí te dejo diferentes formas de contactar conmigo.</p>
 
-<a href="mailto:cguillermodev@gmail.com">
+<a href="mailto:guillermopayllon@gmail.com">
 <img alt="eMail" src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://twitter.com/carlosdev12">
+<a href="https://x.com/GuillerAyllon">
 <img alt="X" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 <a href="mailto:carlosdeveloper@outlook.es">
 <img alt = "Microsoft Outlook" src ="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
